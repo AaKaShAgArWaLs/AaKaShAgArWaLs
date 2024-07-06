@@ -21,7 +21,7 @@ I'm constantly learning new technologies and improving my skills. Currently, I'm
 Feel free to reach out if you have any questions, suggestions, or just want to connect!
 
 - **LinkedIn:** [Aakash Agarwal](https://www.linkedin.com/in/aakashagarwal1609/)
-- **Twitter:** [@aakashagarwal](https://twitter.com/AaKaShAgArWaLs)
+- **Twitter:** [@AaKaShAgArWaLs](https://twitter.com/AaKaShAgArWaLs)
 - **Email:** aakashrkl603@gmail.com
 
 ## 📈 GitHub Stats
