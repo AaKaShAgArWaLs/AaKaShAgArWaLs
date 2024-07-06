@@ -20,9 +20,9 @@ I'm constantly learning new technologies and improving my skills. Currently, I'm
 ## 💬 Connect with Me
 Feel free to reach out if you have any questions, suggestions, or just want to connect!
 
-- **LinkedIn:** [Aakash Agarwal](https://www.linkedin.com/in/aakashagarwal)
-- **Twitter:** [@aakashagarwal](https://twitter.com/aakashagarwal)
-- **Email:** aakash@example.com
+- **LinkedIn:** [Aakash Agarwal](https://www.linkedin.com/in/aakashagarwal1609/)
+- **Twitter:** [@aakashagarwal](https://twitter.com/AaKaShAgArWaLs)
+- **Email:** aakashrkl603@gmail.com
 
 ## 📈 GitHub Stats
 ![Aakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=AaKaShAgArWaLs&show_icons=true&theme=radical).
