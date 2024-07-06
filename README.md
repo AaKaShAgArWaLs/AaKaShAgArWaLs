@@ -3,8 +3,8 @@
 Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in creating innovative solutions and contributing to the tech community.
 
 ## 🔭 Current Projects
-- **[Password Encrypter]((https://github.com/AaKaShAgArWaLs/Password-Encrypter)):** This tool is Udes to Encrypt and Decrypt Data using Matrix Operations.
-- **[Dice Rolling AGme](https://github.com/AaKaShAgArWaLs/Dice-Rolling-Game):** A dice simulator game is an exciting and interactive way to replicate the experience of rolling dice.
+- **[Password Encrypter](https://github.com/AaKaShAgArWaLs/Password-Encrypter):** This tool is Udes to Encrypt and Decrypt Data using Matrix Operations.
+- **[Dice Rolling Game](https://github.com/AaKaShAgArWaLs/Dice-Rolling-Game):** A dice simulator game is an exciting and interactive way to replicate the experience of rolling dice.
 - **[Power Bi](https://github.com/AaKaShAgArWaLs/PowerBi):** This Power BI project showcases a Sales Performance Dashboard designed to provide insights into the sales data of a company.
 
 ## 🌱 Learning and Exploring
