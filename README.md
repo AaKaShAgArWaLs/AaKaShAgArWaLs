@@ -29,6 +29,20 @@
 <table bordercolor="#66b2b2">
   <tr>
     <td width="50%" valign="top">
+      <h3 align="center">Ganapati Build Mart Website</h3>
+      <div align="center">
+        <a href="https://github.com/AaKaShAgArWaLs/Ganapati-Build-Mart-Website" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=AaKaShAgArWaLs&repo=Ganapati-Build-Mart-Website&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
+        </a>
+        <p><strong>Company website for Ganapati Build Mart featuring product catalog, services, and business information</strong></p>
+        <div align="center">
+          <a href="https://github.com/AaKaShAgArWaLs/Ganapati-Build-Mart-Website" target="_blank">
+            <img src="https://img.shields.io/badge/Code-316c96?style=for-the-badge&logo=github"/>
+          </a>
+        </div>
+      </div>
+    </td>
+    <td width="50%" valign="top">
       <h3 align="center">Password Encrypter</h3>
       <div align="center">
         <a href="https://github.com/AaKaShAgArWaLs/Password-Encrypter" target="_blank">
@@ -42,6 +56,8 @@
         </div>
       </div>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">Dice Rolling Game</h3>
       <div align="center">
@@ -56,15 +72,13 @@
         </div>
       </div>
     </td>
-  </tr>
-  <tr>
-    <td width="100%" colspan="2" valign="top">
+    <td width="50%" valign="top">
       <h3 align="center">Power BI Sales Dashboard</h3>
       <div align="center">
         <a href="https://github.com/AaKaShAgArWaLs/PowerBi" target="_blank">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=AaKaShAgArWaLs&repo=PowerBi&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
         </a>
-        <p><strong>Comprehensive sales performance visualization dashboard with interactive metrics and KPI tracking</strong></p>
+        <p><strong>Comprehensive sales performance visualization dashboard with interactive metrics</strong></p>
         <div align="center">
           <a href="https://github.com/AaKaShAgArWaLs/PowerBi" target="_blank">
             <img src="https://img.shields.io/badge/Code-316c96?style=for-the-badge&logo=github"/>
@@ -79,8 +93,74 @@
 ## 💻 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,c,java,flask,mysql,git,vscode&theme=dark" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" height="38" />
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+        <br>Python
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+        <br>JavaScript
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C" width="65" height="65" />
+        <br>C
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+        <br>Java
+      </td>
+      <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" alt="Flask" width="65" height="65" />
+        <br>Flask
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+        <br>MySQL
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="Git" width="65" height="65" />
+        <br>Git
+      </td>
+      <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="VS Code" width="65" height="65" />
+        <br>VS Code
+      </td>
+      <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Power BI" width="65" height="65" />
+        <br>Power BI
+      </td>
+      <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" width="65" height="65" />
+        <br>HTML
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" width="65" height="65" />
+        <br>CSS
+      </td>
+      <td align="center" width="96">
+        <img src="https://raw.githubusercontent.com/kristerkari/react-native-svg-transformer/master/images/react-native-logo.png" alt="React Native" width="65" height="65" />
+        <br>React Native
+      </td>
+      <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" width="65" height="65" />
+        <br>Tailwind
+      </td>
+      <td align="center" width="96">
+        <img src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" width="65" height="65" />
+        <br>Bootstrap
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+        <br>React
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## 📊 GitHub Statistics
@@ -94,9 +174,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaKaShAgArWaLs&layout=compact&theme=radical"/>
 </div>
 
-<div align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=AaKaShAgArWaLs&theme=radical" alt="GitHub Streak Stats" />
-</div>
+<!-- Removed Streak Stats section due to display issues -->
 
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AaKaShAgArWaLs&custom_title=Aakash%20Agarwal's%20Contribution%20Graph&theme=radical" alt="Activity Graph" />
