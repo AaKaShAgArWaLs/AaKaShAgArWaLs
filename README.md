@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Aakash%20Agarwal&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20|%20Tech%20Enthusiast%20|%20Problem%20Solver&descAlignY=60&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Aakash%20Agarwal&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Freelance%20Website%20Developer%20|%20Software%20Developer%20|%20Tech%20Enthusiast&descAlignY=60&descSize=20" width="100%"/>
 </div>
 
 <p align="center">
@@ -15,13 +15,87 @@
 
 ## 💫 About Me
 
-- 🔭 I'm currently working on **full-stack web applications**
+- 🔭 I'm currently working on **full-stack web applications and freelance projects**
 - 🌱 I'm currently learning **advanced framework architectures**
 - 👯 I'm looking to collaborate on **innovative open-source projects**
+- 💼 Available for **freelance website development projects**
 - 💬 Ask me about **Python, JavaScript, and data visualization**
-- ⚡ Fun fact: **I can solve a Rubik's cube in under 2 minutes**
 
 <br/>
+
+## 🌐 Live Projects
+
+<div align="center">
+<table bordercolor="#66b2b2">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🏗️ Ganapati Build Mart</h3>
+      <div align="center">
+        <a href="https://gbmart.in" target="_blank">
+          <img src="https://img.shields.io/badge/🌐_Live_Website-gbmart.in-4CAF50?style=for-the-badge&logo=internet-explorer&logoColor=white" />
+        </a>
+        <p><strong>Complete business website for hardware, plywood & furnishing materials supplier</strong></p>
+        <p>✨ Product showcase | 📱 Mobile responsive | 📞 Contact integration</p>
+        <div align="center">
+          <a href="https://gbmart.in" target="_blank">
+            <img src="https://img.shields.io/badge/Visit_Site-2196F3?style=for-the-badge&logo=web&logoColor=white"/>
+          </a>
+          <a href="https://github.com/AaKaShAgArWaLs/Ganapati-Build-Mart-Website" target="_blank">
+            <img src="https://img.shields.io/badge/Source_Code-316c96?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>
+        </div>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🔒 Password Encrypter</h3>
+      <div align="center">
+        <a href="https://github.com/AaKaShAgArWaLs/Password-Encrypter" target="_blank">
+          <img src="https://img.shields.io/badge/🔧_Security_Tool-Advanced_Encryption-FF5722?style=for-the-badge&logo=security&logoColor=white" />
+        </a>
+        <p><strong>Security tool using advanced matrix operations for data encryption and decryption</strong></p>
+        <p>🔐 Matrix encryption | 🛡️ Data security | 🔢 Algorithm implementation</p>
+        <div align="center">
+          <a href="https://github.com/AaKaShAgArWaLs/Password-Encrypter" target="_blank">
+            <img src="https://img.shields.io/badge/View_Code-316c96?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>
+        </div>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🎲 Dice Rolling Game</h3>
+      <div align="center">
+        <a href="https://github.com/AaKaShAgArWaLs/Dice-Rolling-Game" target="_blank">
+          <img src="https://img.shields.io/badge/🎮_Interactive_Game-Dice_Simulator-9C27B0?style=for-the-badge&logo=gamepad&logoColor=white" />
+        </a>
+        <p><strong>Interactive dice simulator with randomization algorithms and user-friendly interface</strong></p>
+        <p>🎯 Random algorithms | 🎨 Interactive UI | 🎲 Game mechanics</p>
+        <div align="center">
+          <a href="https://github.com/AaKaShAgArWaLs/Dice-Rolling-Game" target="_blank">
+            <img src="https://img.shields.io/badge/View_Code-316c96?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>
+        </div>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📊 Power BI Sales Dashboard</h3>
+      <div align="center">
+        <a href="https://github.com/AaKaShAgArWaLs/PowerBi" target="_blank">
+          <img src="https://img.shields.io/badge/📈_Analytics_Dashboard-Sales_Insights-F7931E?style=for-the-badge&logo=powerbi&logoColor=white" />
+        </a>
+        <p><strong>Comprehensive sales performance visualization dashboard with interactive metrics</strong></p>
+        <p>📊 Data visualization | 📈 Sales analytics | 🔍 Interactive metrics</p>
+        <div align="center">
+          <a href="https://github.com/AaKaShAgArWaLs/PowerBi" target="_blank">
+            <img src="https://img.shields.io/badge/View_Code-316c96?style=for-the-badge&logo=github&logoColor=white"/>
+          </a>
+        </div>
+      </div>
+    </td>
+  </tr>
+</table>
+</div>
 
 ## 🚀 Featured Projects
 
@@ -88,6 +162,27 @@
     </td>
   </tr>
 </table>
+</div>
+
+## 💼 Freelance Services
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/🌐_Website_Development-Full_Stack-4CAF50?style=for-the-badge" />
+        <p><strong>Custom websites tailored to your business needs</strong></p>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/📱_Responsive_Design-Mobile_First-2196F3?style=for-the-badge" />
+        <p><strong>Mobile-friendly designs that work on all devices</strong></p>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://img.shields.io/badge/⚡_Performance_Optimization-Fast_Loading-FF9800?style=for-the-badge" />
+        <p><strong>Optimized websites for speed and SEO</strong></p>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## 💻 Tech Stack
@@ -174,8 +269,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaKaShAgArWaLs&layout=compact&theme=radical"/>
 </div>
 
-<!-- Removed Streak Stats section due to display issues -->
-
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AaKaShAgArWaLs&custom_title=Aakash%20Agarwal's%20Contribution%20Graph&theme=radical" alt="Activity Graph" />
 </div>
@@ -216,7 +309,8 @@
 </div>
 
 <div align="center">
-  <h3>✨ Feel free to reach out for collaboration or just a tech chat! ✨</h3>
+  <h3>✨ Open for freelance projects and collaboration opportunities! ✨</h3>
+  <p>💼 Available for custom website development | 🚀 Let's build something amazing together!</p>
 </div>
 
 <div align="center">
