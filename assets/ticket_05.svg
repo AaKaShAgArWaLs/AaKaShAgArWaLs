@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="214" viewBox="0 0 420 214" role="img" aria-labelledby="t d">
+<title id="t">Ticket 05: Blind Date Enigma</title>
+<desc id="d">Blind Date Enigma, delivered. Theatrical matchmaking show for a live event, with animated transitions.</desc>
+<style>
+text{font-family:'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif}
+
+.pulse{animation:pulse 2.4s ease-in-out infinite}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.3}}
+.fill{transform-box:fill-box;transform-origin:left center;animation:fill 5s ease-in-out infinite alternate}
+@keyframes fill{from{transform:scaleX(.3)}to{transform:scaleX(.92)}}
+
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<rect width="420" height="214" rx="14" fill="#1E2730"/><rect width="420" height="44" rx="14" fill="#8EA2B5"/><rect y="22" width="420" height="22" fill="#8EA2B5"/><text x="16" y="29" font-size="15" fill="#11161B" font-weight="800" text-anchor="start" >#05</text><text x="56" y="29" font-size="18" fill="#11161B" font-weight="800" text-anchor="start" >Blind Date Enigma</text><polyline points="334,23 342,31 356,14" fill="none" stroke="#11161B" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/><text x="404" y="27" font-size="14" fill="#11161B" font-weight="800" text-anchor="end" >done</text><circle cx="0" cy="44" r="9" fill="#11161B"/><circle cx="420" cy="44" r="9" fill="#11161B"/><line x1="14" y1="44" x2="406" y2="44" stroke="#11161B" stroke-width="1.5" stroke-dasharray="3 5"/><text x="18" y="74" font-size="14" fill="#C7D0D9" font-weight="400" text-anchor="start" >Theatrical matchmaking show for a live event,</text><text x="18" y="95" font-size="14" fill="#C7D0D9" font-weight="400" text-anchor="start" >with animated transitions.</text><rect x="18" y="152" width="58" height="26" rx="13" fill="#11161B" stroke="#2A343E" stroke-width="1.3"/><text x="47.0" y="170" font-size="12" fill="#F3F6F9" font-weight="600" text-anchor="middle" >React</text><rect x="84" y="152" width="79" height="26" rx="13" fill="#11161B" stroke="#2A343E" stroke-width="1.3"/><text x="123.5" y="170" font-size="12" fill="#F3F6F9" font-weight="600" text-anchor="middle" >Tailwind</text><rect x="171" y="152" width="115" height="26" rx="13" fill="#11161B" stroke="#2A343E" stroke-width="1.3"/><text x="228.5" y="170" font-size="12" fill="#F3F6F9" font-weight="600" text-anchor="middle" >Framer Motion</text><rect x="18" y="194" width="384" height="5" rx="2.5" fill="#2A343E"/><rect class="" x="18" y="194" width="384" height="5" rx="2.5" fill="#8EA2B5"/>
+</svg>

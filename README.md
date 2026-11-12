@@ -60,125 +60,30 @@ The board is live: the dashed ticket is the next open slot, and it's yours.
   <img src="assets/board.svg" alt="Order board with three columns. Stuti Traders and Ganapati Build Mart are ready, MindsTV and an order management API are cooking, and an open ticket for your project moves from new to cooking to ready" width="100%"/>
 </p>
 
-<details open>
-<summary><b>🎟️ Read the tickets</b></summary>
+### 🎟️ Read the tickets
 
-<br>
-
-Tap a ticket to see what it is, what it's built with and where to find it.
-
-<details>
-<summary><img src="https://img.shields.io/badge/live-4CC38A?style=flat-square&labelColor=11161B"/> &nbsp;<b>#01 Stuti Traders</b></summary>
-
-<br>
-
-A product catalogue with image uploads. The Next.js frontend runs on Vercel and talks to a FastAPI backend on a VPS.
-
-<p><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/github/languages/top/Burrito3000/stuti-traders?style=flat-square&labelColor=11161B"/> <img src="https://img.shields.io/github/last-commit/Burrito3000/stuti-traders?style=flat-square&labelColor=11161B"/></p>
-
-[View the code](https://github.com/Burrito3000/stuti-traders)
-
-</details>
-<details>
-<summary><img src="https://img.shields.io/badge/live-4CC38A?style=flat-square&labelColor=11161B"/> &nbsp;<b>#02 Ganapati Build Mart</b></summary>
-
-<br>
-
-The website for a hardware, plywood and furnishing supplier: product showcase, mobile-friendly pages and contact links.
-
-<p><img src="https://img.shields.io/github/languages/top/Archi-jain19/Ganapati-Build-Mart-Website?style=flat-square&labelColor=11161B"/> <img src="https://img.shields.io/github/last-commit/Archi-jain19/Ganapati-Build-Mart-Website?style=flat-square&labelColor=11161B"/></p>
-
-[Visit gbmart.in](https://gbmart.in) &nbsp;|&nbsp; [View the code](https://github.com/Archi-jain19/Ganapati-Build-Mart-Website)
-
-</details>
-<details>
-<summary><img src="https://img.shields.io/badge/in%20progress-F2A93B?style=flat-square&labelColor=11161B"/> &nbsp;<b>#03 MindsTV</b></summary>
-
-<br>
-
-An iOS app, now working through App Store submission and in-app subscription setup, with a MySQL database on AWS RDS.
-
-<p><img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/AWS%20RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white"/></p>
-
-Private project.
-
-</details>
-<details>
-<summary><img src="https://img.shields.io/badge/in%20progress-F2A93B?style=flat-square&labelColor=11161B"/> &nbsp;<b>#04 Order management API</b></summary>
-
-<br>
-
-A custom order API for restaurants, being connected to the Petpooja point-of-sale system so orders flow straight to the kitchen.
-
-<p><img src="https://img.shields.io/badge/REST-7F3FBF?style=flat-square"/> <img src="https://img.shields.io/badge/Petpooja%20POS-F2A93B?style=flat-square"/></p>
-
-Private project.
-
-</details>
-<details>
-<summary><img src="https://img.shields.io/badge/delivered-8EA2B5?style=flat-square&labelColor=11161B"/> &nbsp;<b>Blind Date Enigma</b></summary>
-
-<br>
-
-A theatrical matchmaking show built for a live event, with staged reveals and animated transitions.
-
-<p><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white"/> <img src="https://img.shields.io/github/languages/top/AaKaShAgArWaLs/Blind_Date_Enigma?style=flat-square&labelColor=11161B"/> <img src="https://img.shields.io/github/last-commit/AaKaShAgArWaLs/Blind_Date_Enigma?style=flat-square&labelColor=11161B"/></p>
-
-[View the code](https://github.com/AaKaShAgArWaLs/Blind_Date_Enigma)
-
-</details>
-<details>
-<summary><img src="https://img.shields.io/badge/delivered-8EA2B5?style=flat-square&labelColor=11161B"/> &nbsp;<b>Inceptrix 2.0</b></summary>
-
-<br>
-
-A hackathon platform, second edition.
-
-<p></p>
-
-Private project.
-
-</details>
-
-</details>
-
-<details>
-<summary><b>📌 Pinned repositories</b></summary>
-
-<br>
+Tap a ticket to open it. Tickets #03, #04 and #06 are private projects, so there's nothing to open yet.
 
 <table>
-<tr>
-<td width="50%" valign="top"><a href="https://github.com/Archi-jain19/Ganapati-Build-Mart-Website"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Archi-jain19&repo=Ganapati-Build-Mart-Website&show_owner=true&border_color=2A343E&bg_color=11161B&title_color=F2A93B&text_color=C7D0D9&icon_color=4CC38A"/></a></td>
-<td width="50%" valign="top"><a href="https://github.com/Burrito3000/stuti-traders"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Burrito3000&repo=stuti-traders&show_owner=true&border_color=2A343E&bg_color=11161B&title_color=F2A93B&text_color=C7D0D9&icon_color=4CC38A"/></a></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://github.com/AaKaShAgArWaLs/Blind_Date_Enigma"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=AaKaShAgArWaLs&repo=Blind_Date_Enigma&show_owner=true&border_color=2A343E&bg_color=11161B&title_color=F2A93B&text_color=C7D0D9&icon_color=4CC38A"/></a></td>
-<td width="50%" valign="top"><a href="https://github.com/AaKaShAgArWaLs/Password-Encrypter"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=AaKaShAgArWaLs&repo=Password-Encrypter&show_owner=true&border_color=2A343E&bg_color=11161B&title_color=F2A93B&text_color=C7D0D9&icon_color=4CC38A"/></a></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://github.com/AaKaShAgArWaLs/Dice-Rolling-Game"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=AaKaShAgArWaLs&repo=Dice-Rolling-Game&show_owner=true&border_color=2A343E&bg_color=11161B&title_color=F2A93B&text_color=C7D0D9&icon_color=4CC38A"/></a></td>
-<td width="50%" valign="top"><a href="https://github.com/AaKaShAgArWaLs/PowerBi"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=AaKaShAgArWaLs&repo=PowerBi&show_owner=true&border_color=2A343E&bg_color=11161B&title_color=F2A93B&text_color=C7D0D9&icon_color=4CC38A"/></a></td>
-</tr>
+<tr><td width="50%" valign="top"><a href="https://github.com/Burrito3000/stuti-traders"><img src="assets/ticket_01.svg" alt="Ticket 01, Stuti Traders, live" width="100%"/></a></td><td width="50%" valign="top"><a href="https://gbmart.in"><img src="assets/ticket_02.svg" alt="Ticket 02, Ganapati Build Mart, live" width="100%"/></a></td></tr>
+<tr><td width="50%" valign="top"><img src="assets/ticket_03.svg" alt="Ticket 03, MindsTV, in progress" width="100%"/></td><td width="50%" valign="top"><img src="assets/ticket_04.svg" alt="Ticket 04, Order management API, in progress" width="100%"/></td></tr>
+<tr><td width="50%" valign="top"><a href="https://github.com/AaKaShAgArWaLs/Blind_Date_Enigma"><img src="assets/ticket_05.svg" alt="Ticket 05, Blind Date Enigma, delivered" width="100%"/></a></td><td width="50%" valign="top"><img src="assets/ticket_06.svg" alt="Ticket 06, Inceptrix 2.0, delivered" width="100%"/></td></tr>
 </table>
 
-</details>
-
-<details>
-<summary><b>🧪 Earlier experiments</b></summary>
-
-<br>
+### 📌 Pinned repositories
 
 <table>
-<tr><th align="left">Project</th><th align="left">Language and activity</th></tr>
-<tr><td valign="top"><b>🔒 <a href="https://github.com/AaKaShAgArWaLs/Password-Encrypter">Password Encrypter</a></b><br><sub>Encrypts and decrypts data using matrix operations</sub></td><td valign="top"><img src="https://img.shields.io/badge/security-E5484D?style=flat-square"/><br><img src="https://img.shields.io/github/languages/top/AaKaShAgArWaLs/Password-Encrypter?style=flat-square&labelColor=11161B"/> <img src="https://img.shields.io/github/last-commit/AaKaShAgArWaLs/Password-Encrypter?style=flat-square&labelColor=11161B"/></td></tr>
-<tr><td valign="top"><b>🎲 <a href="https://github.com/AaKaShAgArWaLs/Dice-Rolling-Game">Dice Rolling Game</a></b><br><sub>Interactive dice simulator with randomization</sub></td><td valign="top"><img src="https://img.shields.io/badge/game-9C27B0?style=flat-square"/><br><img src="https://img.shields.io/github/languages/top/AaKaShAgArWaLs/Dice-Rolling-Game?style=flat-square&labelColor=11161B"/> <img src="https://img.shields.io/github/last-commit/AaKaShAgArWaLs/Dice-Rolling-Game?style=flat-square&labelColor=11161B"/></td></tr>
-<tr><td valign="top"><b>📊 <a href="https://github.com/AaKaShAgArWaLs/PowerBi">Power BI Sales Dashboard</a></b><br><sub>Sales performance dashboard with interactive metrics</sub></td><td valign="top"><img src="https://img.shields.io/badge/analytics-F2A93B?style=flat-square"/><br><img src="https://img.shields.io/github/languages/top/AaKaShAgArWaLs/PowerBi?style=flat-square&labelColor=11161B"/> <img src="https://img.shields.io/github/last-commit/AaKaShAgArWaLs/PowerBi?style=flat-square&labelColor=11161B"/></td></tr>
+<tr><td width="50%" valign="top"><a href="https://github.com/Archi-jain19/Ganapati-Build-Mart-Website"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Archi-jain19&repo=Ganapati-Build-Mart-Website&show_owner=true&border_color=2A343E&bg_color=11161B&title_color=F2A93B&text_color=C7D0D9&icon_color=4CC38A"/></a></td><td width="50%" valign="top"><a href="https://github.com/Burrito3000/stuti-traders"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Burrito3000&repo=stuti-traders&show_owner=true&border_color=2A343E&bg_color=11161B&title_color=F2A93B&text_color=C7D0D9&icon_color=4CC38A"/></a></td></tr>
+<tr><td width="50%" valign="top"><a href="https://github.com/AaKaShAgArWaLs/Blind_Date_Enigma"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=AaKaShAgArWaLs&repo=Blind_Date_Enigma&show_owner=true&border_color=2A343E&bg_color=11161B&title_color=F2A93B&text_color=C7D0D9&icon_color=4CC38A"/></a></td><td width="50%" valign="top"><a href="https://github.com/AaKaShAgArWaLs/daraz-shipping"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=AaKaShAgArWaLs&repo=daraz-shipping&show_owner=true&border_color=2A343E&bg_color=11161B&title_color=F2A93B&text_color=C7D0D9&icon_color=4CC38A"/></a></td></tr>
+</table>
+
+### 🧪 Earlier experiments
+
+<table>
+<tr><td width="33%" valign="top"><a href="https://github.com/AaKaShAgArWaLs/Password-Encrypter"><img src="assets/exp_encrypter.svg" alt="Password Encrypter, security experiment" width="100%"/></a></td><td width="33%" valign="top"><a href="https://github.com/AaKaShAgArWaLs/Dice-Rolling-Game"><img src="assets/exp_dice.svg" alt="Dice Rolling Game, interactive dice simulator" width="100%"/></a></td><td width="33%" valign="top"><a href="https://github.com/AaKaShAgArWaLs/PowerBi"><img src="assets/exp_powerbi.svg" alt="Power BI Sales Dashboard, analytics" width="100%"/></a></td></tr>
 </table>
 
 <sub>Also in the archive: <a href="https://github.com/AaKaShAgArWaLs/JUHackathon">JUHackathon</a> and <a href="https://github.com/AaKaShAgArWaLs/Hackathon_23BTRCT001">Hackathon_23BTRCT001</a>.</sub>
-
-</details>
 
 ## 🍽️ Menu
 
