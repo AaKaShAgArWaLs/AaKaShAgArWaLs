@@ -1,28 +1,113 @@
-<p align="center">
-  <img src="assets/hero.svg" alt="A receipt printing out of a printer: Aakash Agarwal, full-stack developer, B.Tech CSE student at Jain University, Resource Lead at Enigma Club, open to freelance projects" width="100%"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="assets/orders.svg" alt="Order list of recent work: Stuti Traders and Ganapati Build Mart are live, MindsTV and an order management API are in progress, Blind Date Enigma and Inceptrix 2.0 are delivered" width="100%"/>
-</p>
+```text
+ ┌──────────────────────────────────────────────┐
+ │                                              │
+ │            A A K A S H   A G A R W A L       │
+ │               Full-stack developer           │
+ │                                              │
+ │  Prepared by ..... B.Tech CSE, Jain Univ.    │
+ │  Also ............ Resource Lead, Enigma Club │
+ │  Class of ........ 2027                      │
+ │  Taking orders ... freelance projects        │
+ │                                              │
+ │          Tap a line below to open it.        │
+ └──────────────────────────────────────────────┘
+```
 
-<p align="center">
-  <a href="https://github.com/Burrito3000/stuti-traders">Stuti Traders code</a> |
-  <a href="https://gbmart.in">gbmart.in</a> |
-  <a href="https://github.com/Archi-jain19/Ganapati-Build-Mart-Website">Ganapati Build Mart code</a> |
-  <a href="https://github.com/AaKaShAgArWaLs/Blind_Date_Enigma">Blind Date Enigma code</a>
-</p>
+</div>
 
-<p align="center">
-  <img src="assets/menu.svg" alt="Tech stack as a menu: Frontend React, Next.js, Tailwind, HTML, CSS. Mobile React Native, Expo. Backend Node.js, FastAPI, Flask. Data MongoDB, MySQL, SQL. Languages Python, JavaScript, Java, C. Tools Git, VS Code, Power BI" width="100%"/>
-</p>
+## Order list
 
-<p align="center">
-  <img src="assets/footer.svg" alt="Contact receipt with email, LinkedIn and Twitter, and a stamp reading Open for freelance" width="100%"/>
-</p>
+<details>
+<summary><b>Stuti Traders</b> ........ [x] live</summary>
 
-<p align="center">
-  <a href="mailto:aakashrkl603@gmail.com">Email</a> |
-  <a href="https://www.linkedin.com/in/aakashagarwal1609/">LinkedIn</a> |
-  <a href="https://twitter.com/AaKaShAgArWaLs">Twitter</a>
-</p>
+<br>
+
+A product catalogue site. Next.js frontend on Vercel, FastAPI backend on a VPS.
+
+[Code](https://github.com/Burrito3000/stuti-traders)
+
+</details>
+
+<details>
+<summary><b>Ganapati Build Mart</b> ........ [x] live</summary>
+
+<br>
+
+Website for a hardware, plywood and furnishing supplier.
+
+[gbmart.in](https://gbmart.in) | [Code](https://github.com/Archi-jain19/Ganapati-Build-Mart-Website)
+
+</details>
+
+<details>
+<summary><b>MindsTV</b> ........ [~] in progress</summary>
+
+<br>
+
+An iOS app, currently working through App Store submission and in-app subscription setup.
+
+</details>
+
+<details>
+<summary><b>Order management API</b> ........ [~] in progress</summary>
+
+<br>
+
+A custom restaurant order API, being linked to the Petpooja POS.
+
+</details>
+
+<details>
+<summary><b>Blind Date Enigma</b> ........ [x] delivered</summary>
+
+<br>
+
+A theatrical matchmaking show for a live event. React, Tailwind and Framer Motion.
+
+[Code](https://github.com/AaKaShAgArWaLs/Blind_Date_Enigma)
+
+</details>
+
+<details>
+<summary><b>Inceptrix 2.0</b> ........ [x] delivered</summary>
+
+<br>
+
+A hackathon platform.
+
+</details>
+
+## What I cook with
+
+<details>
+<summary><b>Open the menu</b></summary>
+
+<br>
+
+| Section | Items |
+| :-- | :-- |
+| Frontend | React, Next.js, Tailwind, HTML, CSS |
+| Mobile | React Native, Expo |
+| Backend | Node.js, FastAPI, Flask |
+| Data | MongoDB, MySQL, SQL |
+| Languages | Python, JavaScript, Java, C |
+| Tools | Git, VS Code, Power BI |
+
+</details>
+
+## Place an order
+
+<details open>
+<summary><b>Open for freelance projects</b></summary>
+
+<br>
+
+Websites, apps and order systems for small businesses.
+
+- [aakashrkl603@gmail.com](mailto:aakashrkl603@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/aakashagarwal1609/)
+- [Twitter](https://twitter.com/AaKaShAgArWaLs)
+
+</details>
