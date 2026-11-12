@@ -60,19 +60,85 @@ The board is live: the dashed ticket is the next open slot, and it's yours.
   <img src="assets/board.svg" alt="Order board with three columns. Stuti Traders and Ganapati Build Mart are ready, MindsTV and an order management API are cooking, and an open ticket for your project moves from new to cooking to ready" width="100%"/>
 </p>
 
-<details>
-<summary><b>Read the tickets</b></summary>
+<details open>
+<summary><b>🎟️ Read the tickets</b></summary>
 
 <br>
 
-| Ticket | What it is | Links |
-| :-- | :-- | :-- |
-| **#01 Stuti Traders** | Product catalogue with image uploads, Next.js and FastAPI | [Code](https://github.com/Burrito3000/stuti-traders) |
-| **#02 Ganapati Build Mart** | Site for a hardware, plywood and furnishing supplier | [gbmart.in](https://gbmart.in), [Code](https://github.com/Archi-jain19/Ganapati-Build-Mart-Website) |
-| **#03 MindsTV** | iOS app with App Store release and subscriptions | in progress |
-| **#04 Order management API** | Restaurant order API, linking to the Petpooja POS | in progress |
-| Blind Date Enigma | Theatrical matchmaking show for a live event, React and Framer Motion | [Code](https://github.com/AaKaShAgArWaLs/Blind_Date_Enigma) |
-| Inceptrix 2.0 | Hackathon platform | delivered |
+Tap a ticket to see what it is, what it's built with and where to find it.
+
+<details>
+<summary><img src="https://img.shields.io/badge/live-4CC38A?style=flat-square&labelColor=11161B"/> &nbsp;<b>#01 Stuti Traders</b></summary>
+
+<br>
+
+A product catalogue with image uploads. The Next.js frontend runs on Vercel and talks to a FastAPI backend on a VPS.
+
+<p><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/github/languages/top/Burrito3000/stuti-traders?style=flat-square&labelColor=11161B"/> <img src="https://img.shields.io/github/last-commit/Burrito3000/stuti-traders?style=flat-square&labelColor=11161B"/></p>
+
+[View the code](https://github.com/Burrito3000/stuti-traders)
+
+</details>
+<details>
+<summary><img src="https://img.shields.io/badge/live-4CC38A?style=flat-square&labelColor=11161B"/> &nbsp;<b>#02 Ganapati Build Mart</b></summary>
+
+<br>
+
+The website for a hardware, plywood and furnishing supplier: product showcase, mobile-friendly pages and contact links.
+
+<p><img src="https://img.shields.io/github/languages/top/Archi-jain19/Ganapati-Build-Mart-Website?style=flat-square&labelColor=11161B"/> <img src="https://img.shields.io/github/last-commit/Archi-jain19/Ganapati-Build-Mart-Website?style=flat-square&labelColor=11161B"/></p>
+
+[Visit gbmart.in](https://gbmart.in) &nbsp;|&nbsp; [View the code](https://github.com/Archi-jain19/Ganapati-Build-Mart-Website)
+
+</details>
+<details>
+<summary><img src="https://img.shields.io/badge/in%20progress-F2A93B?style=flat-square&labelColor=11161B"/> &nbsp;<b>#03 MindsTV</b></summary>
+
+<br>
+
+An iOS app, now working through App Store submission and in-app subscription setup, with a MySQL database on AWS RDS.
+
+<p><img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/AWS%20RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white"/></p>
+
+Private project.
+
+</details>
+<details>
+<summary><img src="https://img.shields.io/badge/in%20progress-F2A93B?style=flat-square&labelColor=11161B"/> &nbsp;<b>#04 Order management API</b></summary>
+
+<br>
+
+A custom order API for restaurants, being connected to the Petpooja point-of-sale system so orders flow straight to the kitchen.
+
+<p><img src="https://img.shields.io/badge/REST-7F3FBF?style=flat-square"/> <img src="https://img.shields.io/badge/Petpooja%20POS-F2A93B?style=flat-square"/></p>
+
+Private project.
+
+</details>
+<details>
+<summary><img src="https://img.shields.io/badge/delivered-8EA2B5?style=flat-square&labelColor=11161B"/> &nbsp;<b>Blind Date Enigma</b></summary>
+
+<br>
+
+A theatrical matchmaking show built for a live event, with staged reveals and animated transitions.
+
+<p><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white"/> <img src="https://img.shields.io/github/languages/top/AaKaShAgArWaLs/Blind_Date_Enigma?style=flat-square&labelColor=11161B"/> <img src="https://img.shields.io/github/last-commit/AaKaShAgArWaLs/Blind_Date_Enigma?style=flat-square&labelColor=11161B"/></p>
+
+[View the code](https://github.com/AaKaShAgArWaLs/Blind_Date_Enigma)
+
+</details>
+<details>
+<summary><img src="https://img.shields.io/badge/delivered-8EA2B5?style=flat-square&labelColor=11161B"/> &nbsp;<b>Inceptrix 2.0</b></summary>
+
+<br>
+
+A hackathon platform, second edition.
+
+<p></p>
+
+Private project.
+
+</details>
 
 </details>
 
@@ -81,14 +147,20 @@ The board is live: the dashed ticket is the next open slot, and it's yours.
 
 <br>
 
-<div align="center">
-<a href="https://github.com/Archi-jain19/Ganapati-Build-Mart-Website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Archi-jain19&repo=Ganapati-Build-Mart-Website&border_color=2A343E&bg_color=11161B&title_color=F2A93B&text_color=C7D0D9&icon_color=4CC38A" /></a>
-<a href="https://github.com/Burrito3000/stuti-traders"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Burrito3000&repo=stuti-traders&border_color=2A343E&bg_color=11161B&title_color=F2A93B&text_color=C7D0D9&icon_color=4CC38A" /></a>
-<a href="https://github.com/AaKaShAgArWaLs/Blind_Date_Enigma"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AaKaShAgArWaLs&repo=Blind_Date_Enigma&border_color=2A343E&bg_color=11161B&title_color=F2A93B&text_color=C7D0D9&icon_color=4CC38A" /></a>
-<a href="https://github.com/AaKaShAgArWaLs/Password-Encrypter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AaKaShAgArWaLs&repo=Password-Encrypter&border_color=2A343E&bg_color=11161B&title_color=F2A93B&text_color=C7D0D9&icon_color=4CC38A" /></a>
-<a href="https://github.com/AaKaShAgArWaLs/Dice-Rolling-Game"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AaKaShAgArWaLs&repo=Dice-Rolling-Game&border_color=2A343E&bg_color=11161B&title_color=F2A93B&text_color=C7D0D9&icon_color=4CC38A" /></a>
-<a href="https://github.com/AaKaShAgArWaLs/PowerBi"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AaKaShAgArWaLs&repo=PowerBi&border_color=2A343E&bg_color=11161B&title_color=F2A93B&text_color=C7D0D9&icon_color=4CC38A" /></a>
-</div>
+<table>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/Archi-jain19/Ganapati-Build-Mart-Website"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Archi-jain19&repo=Ganapati-Build-Mart-Website&show_owner=true&border_color=2A343E&bg_color=11161B&title_color=F2A93B&text_color=C7D0D9&icon_color=4CC38A"/></a></td>
+<td width="50%" valign="top"><a href="https://github.com/Burrito3000/stuti-traders"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Burrito3000&repo=stuti-traders&show_owner=true&border_color=2A343E&bg_color=11161B&title_color=F2A93B&text_color=C7D0D9&icon_color=4CC38A"/></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/AaKaShAgArWaLs/Blind_Date_Enigma"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=AaKaShAgArWaLs&repo=Blind_Date_Enigma&show_owner=true&border_color=2A343E&bg_color=11161B&title_color=F2A93B&text_color=C7D0D9&icon_color=4CC38A"/></a></td>
+<td width="50%" valign="top"><a href="https://github.com/AaKaShAgArWaLs/Password-Encrypter"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=AaKaShAgArWaLs&repo=Password-Encrypter&show_owner=true&border_color=2A343E&bg_color=11161B&title_color=F2A93B&text_color=C7D0D9&icon_color=4CC38A"/></a></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/AaKaShAgArWaLs/Dice-Rolling-Game"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=AaKaShAgArWaLs&repo=Dice-Rolling-Game&show_owner=true&border_color=2A343E&bg_color=11161B&title_color=F2A93B&text_color=C7D0D9&icon_color=4CC38A"/></a></td>
+<td width="50%" valign="top"><a href="https://github.com/AaKaShAgArWaLs/PowerBi"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=AaKaShAgArWaLs&repo=PowerBi&show_owner=true&border_color=2A343E&bg_color=11161B&title_color=F2A93B&text_color=C7D0D9&icon_color=4CC38A"/></a></td>
+</tr>
+</table>
 
 </details>
 
@@ -97,71 +169,158 @@ The board is live: the dashed ticket is the next open slot, and it's yours.
 
 <br>
 
-| Project | What it is |
-| :-- | :-- |
-| 🔒 [Password Encrypter](https://github.com/AaKaShAgArWaLs/Password-Encrypter) | Data encryption and decryption using matrix operations |
-| 🎲 [Dice Rolling Game](https://github.com/AaKaShAgArWaLs/Dice-Rolling-Game) | Interactive dice simulator with randomization |
-| 📊 [Power BI Sales Dashboard](https://github.com/AaKaShAgArWaLs/PowerBi) | Sales performance dashboard with interactive metrics |
+<table>
+<tr><th align="left">Project</th><th align="left">Language and activity</th></tr>
+<tr><td valign="top"><b>🔒 <a href="https://github.com/AaKaShAgArWaLs/Password-Encrypter">Password Encrypter</a></b><br><sub>Encrypts and decrypts data using matrix operations</sub></td><td valign="top"><img src="https://img.shields.io/badge/security-E5484D?style=flat-square"/><br><img src="https://img.shields.io/github/languages/top/AaKaShAgArWaLs/Password-Encrypter?style=flat-square&labelColor=11161B"/> <img src="https://img.shields.io/github/last-commit/AaKaShAgArWaLs/Password-Encrypter?style=flat-square&labelColor=11161B"/></td></tr>
+<tr><td valign="top"><b>🎲 <a href="https://github.com/AaKaShAgArWaLs/Dice-Rolling-Game">Dice Rolling Game</a></b><br><sub>Interactive dice simulator with randomization</sub></td><td valign="top"><img src="https://img.shields.io/badge/game-9C27B0?style=flat-square"/><br><img src="https://img.shields.io/github/languages/top/AaKaShAgArWaLs/Dice-Rolling-Game?style=flat-square&labelColor=11161B"/> <img src="https://img.shields.io/github/last-commit/AaKaShAgArWaLs/Dice-Rolling-Game?style=flat-square&labelColor=11161B"/></td></tr>
+<tr><td valign="top"><b>📊 <a href="https://github.com/AaKaShAgArWaLs/PowerBi">Power BI Sales Dashboard</a></b><br><sub>Sales performance dashboard with interactive metrics</sub></td><td valign="top"><img src="https://img.shields.io/badge/analytics-F2A93B?style=flat-square"/><br><img src="https://img.shields.io/github/languages/top/AaKaShAgArWaLs/PowerBi?style=flat-square&labelColor=11161B"/> <img src="https://img.shields.io/github/last-commit/AaKaShAgArWaLs/PowerBi?style=flat-square&labelColor=11161B"/></td></tr>
+</table>
+
+<sub>Also in the archive: <a href="https://github.com/AaKaShAgArWaLs/JUHackathon">JUHackathon</a> and <a href="https://github.com/AaKaShAgArWaLs/Hackathon_23BTRCT001">Hackathon_23BTRCT001</a>.</sub>
 
 </details>
 
 ## 🍽️ Menu
 
-What I cook for clients. Tap a dish to see what's in it.
+What I cook for clients. Each dish lists what's included and a real example.
+
+<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Website development
+Custom business sites and product catalogues.
+
+<p><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/></p>
 
 <details>
-<summary><b>🌐 Website development</b></summary>
+<summary>What's included</summary>
 
 <br>
 
-Custom business sites and product catalogues, built in React or Next.js, tailored to how the business actually works.
+- Pages built around your products or services
+- Contact and enquiry links that work on a phone
+- Image uploads for catalogues
+- Deployed and live on a real domain
 
 </details>
 
+<sub>Example: [Ganapati Build Mart](https://gbmart.in)</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### 📱 Mobile apps
+iOS and Android apps, shipped to the stores.
+
+<p><img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white"/></p>
+
 <details>
-<summary><b>📱 Mobile apps</b></summary>
+<summary>What's included</summary>
 
 <br>
 
-React Native apps for iOS and Android, including store submission and in-app subscriptions.
+- React Native builds for both platforms
+- App Store and Play Store submission
+- In-app subscription setup
 
 </details>
 
+<sub>Example: MindsTV, an iOS app</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ Backend and APIs
+The part customers never see but always depend on.
+
+<p><img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/></p>
+
 <details>
-<summary><b>⚙️ Backend and APIs</b></summary>
+<summary>What's included</summary>
 
 <br>
 
-REST APIs in FastAPI, Flask or Node.js, with MongoDB or MySQL behind them.
+- REST APIs with clear endpoints
+- Database design in MongoDB or MySQL
+- Hosting on a VPS or cloud database
 
 </details>
 
+<sub>Example: [Stuti Traders](https://github.com/Burrito3000/stuti-traders) catalogue API</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### 🧾 Order systems and POS links
+Orders that reach the kitchen or counter on their own.
+
+<p><img src="https://img.shields.io/badge/REST-7F3FBF?style=flat-square"/> <img src="https://img.shields.io/badge/Petpooja%20POS-F2A93B?style=flat-square"/></p>
+
 <details>
-<summary><b>🧾 Order systems and POS links</b></summary>
+<summary>What's included</summary>
 
 <br>
 
-Order management for restaurants and shops, including connecting to point-of-sale software like Petpooja.
+- Order management for restaurants and shops
+- Connecting to point-of-sale software like Petpooja
+- Orders flowing from the app to the till
 
 </details>
 
+<sub>Example: a restaurant order API, in progress</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📐 Responsive design
+Phone first, then bigger screens.
+
+<p><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/></p>
+
 <details>
-<summary><b>📐 Responsive design</b></summary>
+<summary>What's included</summary>
 
 <br>
 
-Layouts that work on phones first, then scale up.
+- Layouts tested on small screens first
+- Readable text and tappable buttons
+- One design that scales up to desktop
 
 </details>
 
+<sub>Example: [Ganapati Build Mart](https://gbmart.in), built mobile-friendly</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ Speed and SEO
+Fast pages that search engines can read.
+
+<p><img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/></p>
+
 <details>
-<summary><b>⚡ Speed and SEO</b></summary>
+<summary>What's included</summary>
 
 <br>
 
-Fast-loading pages that search engines can read.
+- Lightweight pages that load quickly
+- Search-friendly markup and titles
+- Static hosting on Vercel where it fits
 
 </details>
+
+<sub>Example: [Stuti Traders](https://github.com/Burrito3000/stuti-traders) frontend on Vercel</sub>
+
+</td>
+</tr>
+</table>
+</div>
 
 ## 🛎️ The pass
 
