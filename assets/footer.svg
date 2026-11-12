@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="240" viewBox="0 0 880 240" role="img" aria-labelledby="t d">
+<title id="t">Order up</title>
+<desc id="d">A swinging service bell with the message: order up, your project goes next.</desc>
+<style>
+text{font-family:'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif}
+
+.bell{transform-origin:190px 70px;animation:swing 5s ease-in-out infinite}
+@keyframes swing{0%{transform:rotate(0)}4%{transform:rotate(-16deg)}10%{transform:rotate(14deg)}16%{transform:rotate(-10deg)}22%{transform:rotate(7deg)}28%{transform:rotate(-3deg)}34%,100%{transform:rotate(0)}}
+.ring{opacity:0;animation:ring 5s ease-out infinite}
+@keyframes ring{0%{opacity:0}5%{opacity:.9}30%,100%{opacity:0}}
+
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<rect width="880" height="240" fill="#11161B"/>
+<g class="ring" fill="none" stroke="#F2A93B" stroke-width="3" stroke-linecap="round"><path d="M110 100 C98 115 98 140 110 155"/><path d="M92 90 C74 112 74 145 92 168"/><path d="M270 100 C282 115 282 140 270 155"/><path d="M288 90 C306 112 306 145 288 168"/></g><g class="bell"><circle cx="190" cy="68" r="7" fill="#F2A93B"/><path d="M146 152 C146 100 166 80 190 80 C214 80 234 100 234 152 Z" fill="#F2A93B"/><rect x="136" y="152" width="108" height="10" rx="5" fill="#F2A93B"/><circle cx="190" cy="172" r="9" fill="#F2A93B"/></g><text x="340" y="120" font-size="56" fill="#4CC38A" font-weight="800" text-anchor="start" letter-spacing="0">Order up!</text><text x="340" y="160" font-size="22" fill="#C7D0D9" font-weight="600" text-anchor="start" letter-spacing="0">Your project goes next.</text><text x="340" y="192" font-size="15" fill="#8FA0B0" font-weight="400" text-anchor="start" letter-spacing="0">Email or LinkedIn, whichever is quicker for you.</text>
+</svg>

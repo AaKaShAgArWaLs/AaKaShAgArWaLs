@@ -1,44 +1,41 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Aakash%20Agarwal&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20|%20Freelance%20Web%20%26%20App%20Developer%20|%20CS%20Student&descAlignY=60&descSize=20" width="100%"/>
-
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7F3FBF&center=true&vCenter=true&width=720&lines=Full-Stack+Developer;Freelance+Web+and+App+Developer;React+%7C+Next.js+%7C+FastAPI+%7C+React+Native;Resource+Lead+at+Enigma+Club" alt="Typing animation"/></a>
-</div>
+<p align="center">
+  <img src="assets/hero.svg" alt="Order screen: Aakash Agarwal, full-stack developer, freelance web and app builder, Resource Lead at Enigma Club" width="100%"/>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aakashagarwal1609/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/AaKaShAgArWaLs"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="mailto:aakashrkl603@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Open%20for-Freelance-4CAF50?style=for-the-badge"/>
-  <img src="https://komarev.com/ghpvc/?username=AaKaShAgArWaLs&style=for-the-badge&color=blueviolet"/>
+  <img src="https://img.shields.io/badge/Open%20for-Freelance-4CC38A?style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=AaKaShAgArWaLs&style=for-the-badge&color=F2A93B"/>
 </p>
 
 <p align="center">
-  <a href="#-about-me">About</a> &nbsp;|&nbsp;
-  <a href="#-projects">Projects</a> &nbsp;|&nbsp;
-  <a href="#-services">Services</a> &nbsp;|&nbsp;
-  <a href="#-tech-stack">Stack</a> &nbsp;|&nbsp;
-  <a href="#-github-stats">Stats</a> &nbsp;|&nbsp;
-  <a href="#-place-an-order">Contact</a>
+  <a href="#-about">About</a> &nbsp;|&nbsp;
+  <a href="#-order-board">Order board</a> &nbsp;|&nbsp;
+  <a href="#-menu">Menu</a> &nbsp;|&nbsp;
+  <a href="#-the-pass">The pass</a> &nbsp;|&nbsp;
+  <a href="#-stats">Stats</a> &nbsp;|&nbsp;
+  <a href="#-order-up">Contact</a>
 </p>
 
 ---
 
-## 💫 About Me
+## 👨‍🍳 About
 
 <table>
 <tr>
 <td width="60%" valign="top">
 
-- 🎓 B.Tech CSE student at **Jain University, Bangalore** (class of 2027)
+- 🎓 B.Tech CSE student at **Jain University, Bangalore**, class of 2027
 - 🧭 **Resource Lead at Enigma Club**, leading a technical team
-- 🔭 Building **full-stack web apps, mobile apps and order systems**
+- 🔭 Building **web apps, mobile apps and order systems** for small businesses
 - 🌱 Learning **advanced framework architectures and scalable backends**
-- 👯 Looking to collaborate on **open-source projects**
-- 💼 Available for **freelance website and app projects**
+- 👯 Open to **collaborating on open-source projects**
 - 💬 Ask me about **React, Next.js, React Native, Node.js, FastAPI and Python**
 
 <details>
-<summary><b>What I'm working on right now</b></summary>
+<summary><b>What's on the stove right now</b></summary>
 
 <br>
 
@@ -55,85 +52,42 @@
 </tr>
 </table>
 
-## 🚀 Projects
+## 🎫 Order board
 
-<div align="center">
-<table>
-<tr>
-<td width="50%" valign="top">
+The board is live: the dashed ticket is the next open slot, and it's yours.
 
-### 🏗️ Ganapati Build Mart
-Website for a hardware, plywood and furnishing supplier.
-
-![Live](https://img.shields.io/badge/status-live-4CAF50?style=flat-square) ![Web](https://img.shields.io/badge/mobile-responsive-2196F3?style=flat-square)
-
-[🌐 gbmart.in](https://gbmart.in) &nbsp;|&nbsp; [Code](https://github.com/Archi-jain19/Ganapati-Build-Mart-Website)
-
-</td>
-<td width="50%" valign="top">
-
-### 📦 Stuti Traders
-Product catalogue with image uploads and a separate API.
-
-![Live](https://img.shields.io/badge/status-live-4CAF50?style=flat-square) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-
-[Code](https://github.com/Burrito3000/stuti-traders)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📺 MindsTV
-iOS app with App Store release and in-app subscriptions.
-
-![In progress](https://img.shields.io/badge/status-in%20progress-FF9800?style=flat-square) ![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### 🍽️ Order Management API
-Custom restaurant order API, being linked to the Petpooja POS.
-
-![In progress](https://img.shields.io/badge/status-in%20progress-FF9800?style=flat-square) ![API](https://img.shields.io/badge/REST-API-7F3FBF?style=flat-square)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💘 Blind Date Enigma
-Theatrical matchmaking show for a live event. React, Tailwind and Framer Motion.
-
-![Delivered](https://img.shields.io/badge/status-delivered-9C27B0?style=flat-square) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-
-[Code](https://github.com/AaKaShAgArWaLs/Blind_Date_Enigma)
-
-</td>
-<td width="50%" valign="top">
-
-### 🏁 Inceptrix 2.0
-Hackathon platform.
-
-![Delivered](https://img.shields.io/badge/status-delivered-9C27B0?style=flat-square)
-
-</td>
-</tr>
-</table>
-</div>
+<p align="center">
+  <img src="assets/board.svg" alt="Order board with three columns. Stuti Traders and Ganapati Build Mart are ready, MindsTV and an order management API are cooking, and an open ticket for your project moves from new to cooking to ready" width="100%"/>
+</p>
 
 <details>
-<summary><b>📌 Pinned repositories (tap to open)</b></summary>
+<summary><b>Read the tickets</b></summary>
+
+<br>
+
+| Ticket | What it is | Links |
+| :-- | :-- | :-- |
+| **#01 Stuti Traders** | Product catalogue with image uploads, Next.js and FastAPI | [Code](https://github.com/Burrito3000/stuti-traders) |
+| **#02 Ganapati Build Mart** | Site for a hardware, plywood and furnishing supplier | [gbmart.in](https://gbmart.in), [Code](https://github.com/Archi-jain19/Ganapati-Build-Mart-Website) |
+| **#03 MindsTV** | iOS app with App Store release and subscriptions | in progress |
+| **#04 Order management API** | Restaurant order API, linking to the Petpooja POS | in progress |
+| Blind Date Enigma | Theatrical matchmaking show for a live event, React and Framer Motion | [Code](https://github.com/AaKaShAgArWaLs/Blind_Date_Enigma) |
+| Inceptrix 2.0 | Hackathon platform | delivered |
+
+</details>
+
+<details>
+<summary><b>📌 Pinned repositories</b></summary>
 
 <br>
 
 <div align="center">
-<a href="https://github.com/Archi-jain19/Ganapati-Build-Mart-Website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Archi-jain19&repo=Ganapati-Build-Mart-Website&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" /></a>
-<a href="https://github.com/Burrito3000/stuti-traders"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Burrito3000&repo=stuti-traders&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" /></a>
-<a href="https://github.com/AaKaShAgArWaLs/Blind_Date_Enigma"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AaKaShAgArWaLs&repo=Blind_Date_Enigma&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" /></a>
-<a href="https://github.com/AaKaShAgArWaLs/Password-Encrypter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AaKaShAgArWaLs&repo=Password-Encrypter&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" /></a>
-<a href="https://github.com/AaKaShAgArWaLs/Dice-Rolling-Game"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AaKaShAgArWaLs&repo=Dice-Rolling-Game&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" /></a>
-<a href="https://github.com/AaKaShAgArWaLs/PowerBi"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AaKaShAgArWaLs&repo=PowerBi&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" /></a>
+<a href="https://github.com/Archi-jain19/Ganapati-Build-Mart-Website"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Archi-jain19&repo=Ganapati-Build-Mart-Website&border_color=2A343E&bg_color=11161B&title_color=F2A93B&text_color=C7D0D9&icon_color=4CC38A" /></a>
+<a href="https://github.com/Burrito3000/stuti-traders"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Burrito3000&repo=stuti-traders&border_color=2A343E&bg_color=11161B&title_color=F2A93B&text_color=C7D0D9&icon_color=4CC38A" /></a>
+<a href="https://github.com/AaKaShAgArWaLs/Blind_Date_Enigma"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AaKaShAgArWaLs&repo=Blind_Date_Enigma&border_color=2A343E&bg_color=11161B&title_color=F2A93B&text_color=C7D0D9&icon_color=4CC38A" /></a>
+<a href="https://github.com/AaKaShAgArWaLs/Password-Encrypter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AaKaShAgArWaLs&repo=Password-Encrypter&border_color=2A343E&bg_color=11161B&title_color=F2A93B&text_color=C7D0D9&icon_color=4CC38A" /></a>
+<a href="https://github.com/AaKaShAgArWaLs/Dice-Rolling-Game"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AaKaShAgArWaLs&repo=Dice-Rolling-Game&border_color=2A343E&bg_color=11161B&title_color=F2A93B&text_color=C7D0D9&icon_color=4CC38A" /></a>
+<a href="https://github.com/AaKaShAgArWaLs/PowerBi"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AaKaShAgArWaLs&repo=PowerBi&border_color=2A343E&bg_color=11161B&title_color=F2A93B&text_color=C7D0D9&icon_color=4CC38A" /></a>
 </div>
 
 </details>
@@ -151,9 +105,9 @@ Hackathon platform.
 
 </details>
 
-## 💼 Services
+## 🍽️ Menu
 
-Tap a service to see what's included.
+What I cook for clients. Tap a dish to see what's in it.
 
 <details>
 <summary><b>🌐 Website development</b></summary>
@@ -183,7 +137,7 @@ REST APIs in FastAPI, Flask or Node.js, with MongoDB or MySQL behind them.
 </details>
 
 <details>
-<summary><b>🍽️ Order systems and POS links</b></summary>
+<summary><b>🧾 Order systems and POS links</b></summary>
 
 <br>
 
@@ -209,7 +163,13 @@ Fast-loading pages that search engines can read.
 
 </details>
 
-## 💻 Tech Stack
+## 🛎️ The pass
+
+Everything that goes through the kitchen.
+
+<p align="center">
+  <img src="assets/stack.svg" alt="Two rows of tech chips sliding past: React, Next.js, Tailwind, HTML, CSS, JavaScript, React Native, Expo, Framer Motion, Node.js, FastAPI, Flask, Python, Java, C, MongoDB, MySQL, SQL, AWS RDS, Git, VS Code and Power BI" width="100%"/>
+</p>
 
 <div align="center">
 <table>
@@ -221,58 +181,33 @@ Fast-loading pages that search engines can read.
 </table>
 </div>
 
-<details>
-<summary><b>Also in the toolbox</b></summary>
-
-<br>
-
-React Native, Expo, Framer Motion, Power BI, SQL, AWS RDS, Canva.
-
-</details>
-
-## 📊 GitHub Stats
+## 📊 Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AaKaShAgArWaLs&theme=radical&no-frame=true&no-bg=false&margin-w=15&margin-h=15&column=7" width="100%" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AaKaShAgArWaLs&theme=onedark&no-frame=true&margin-w=15&margin-h=15&column=7" width="100%" alt="Trophies" />
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AaKaShAgArWaLs&show_icons=true&count_private=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaKaShAgArWaLs&layout=compact&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AaKaShAgArWaLs&show_icons=true&count_private=true&bg_color=11161B&title_color=F2A93B&text_color=C7D0D9&icon_color=4CC38A&border_color=2A343E"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaKaShAgArWaLs&layout=compact&bg_color=11161B&title_color=F2A93B&text_color=C7D0D9&border_color=2A343E"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=AaKaShAgArWaLs&theme=radical&hide_border=true" alt="Streak" />
+  <img src="https://streak-stats.demolab.com/?user=AaKaShAgArWaLs&background=11161B&ring=F2A93B&fire=F2A93B&currStreakNum=F3F6F9&sideNums=F3F6F9&currStreakLabel=4CC38A&sideLabels=C7D0D9&dates=8FA0B0&stroke=2A343E&border=2A343E" alt="Streak" />
 </div>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AaKaShAgArWaLs&custom_title=Aakash%20Agarwal's%20Contribution%20Graph&theme=radical" alt="Activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AaKaShAgArWaLs&custom_title=Contribution%20graph&bg_color=11161B&color=F2A93B&line=4CC38A&point=F3F6F9&area=true&hide_border=true" alt="Activity graph" />
 </div>
 
-## 🧾 Place an order
+## 🛎️ Order up
 
-<div align="center">
+<p align="center">
+  <img src="assets/footer.svg" alt="A swinging service bell: order up, your project goes next" width="100%"/>
+</p>
 
-```text
- ┌──────────────────────────────────────────────┐
- │  Send the next order to:                     │
- │                                              │
- │  Email ....... aakashrkl603@gmail.com        │
- │  LinkedIn .... aakashagarwal1609             │
- │  Twitter ..... @AaKaShAgArWaLs               │
- │                                              │
- │  Status ...... OPEN FOR FREELANCE            │
- └──────────────────────────────────────────────┘
-```
-
-<a href="mailto:aakashrkl603@gmail.com"><img src="https://img.shields.io/badge/Email%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/aakashagarwal1609/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/AaKaShAgArWaLs"><img src="https://img.shields.io/badge/Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-
-<h3>✨ Open for freelance projects and collaboration ✨</h3>
-
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=150&section=footer&animation=twinkling" width="100%"/>
-</div>
+<p align="center">
+  <a href="mailto:aakashrkl603@gmail.com"><img src="https://img.shields.io/badge/Email%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/aakashagarwal1609/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/AaKaShAgArWaLs"><img src="https://img.shields.io/badge/Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+</p>
